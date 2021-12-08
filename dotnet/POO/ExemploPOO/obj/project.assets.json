@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/lhrtcunha/Projetos/DIO/dotnet/POO/ExemploPOO/ExemploPOO.csproj",
+      "projectUniqueName": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/POO/ExemploPOO/ExemploPOO.csproj",
       "projectName": "ExemploPOO",
-      "projectPath": "/home/lhrtcunha/Projetos/DIO/dotnet/POO/ExemploPOO/ExemploPOO.csproj",
+      "projectPath": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/POO/ExemploPOO/ExemploPOO.csproj",
       "packagesPath": "/home/lhrtcunha/.nuget/packages/",
-      "outputPath": "/home/lhrtcunha/Projetos/DIO/dotnet/POO/ExemploPOO/obj/",
+      "outputPath": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/POO/ExemploPOO/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/lhrtcunha/.nuget/NuGet/NuGet.Config"

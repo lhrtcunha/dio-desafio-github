@@ -49,7 +49,7 @@ using ExemploPOO.Models;
 // ICalculadora calc = new Calculadora(); 
 // System.Console.WriteLine(calc.Somar(10,20));
 
-var caminho = "/home/lhrtcunha/Projetos/DIO/dotnet/POO/TrabalhandoComArquivos";
+var caminho = "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/POO/TrabalhandoComArquivos";
 var caminhoPathCombine = Path.Combine(caminho, "Pasta teste 3", "SubPasta teste 3");
 var caminhoArquivo = Path.Combine(caminho, "arquivo teste-Stream.txt");
 var novoCaminhoArquivo = Path.Combine(caminho, "Pasta teste 2", "arquivo teste-Stream.txt");
