@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/lhrtcunha/Projetos/DIO/dotnet/Construtores/ExemploConstrutores/ExemploConstrutores.csproj": {}
+    "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Construtores/ExemploConstrutores/ExemploConstrutores.csproj": {}
   },
   "projects": {
-    "/home/lhrtcunha/Projetos/DIO/dotnet/Construtores/ExemploConstrutores/ExemploConstrutores.csproj": {
+    "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Construtores/ExemploConstrutores/ExemploConstrutores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lhrtcunha/Projetos/DIO/dotnet/Construtores/ExemploConstrutores/ExemploConstrutores.csproj",
+        "projectUniqueName": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Construtores/ExemploConstrutores/ExemploConstrutores.csproj",
         "projectName": "ExemploConstrutores",
-        "projectPath": "/home/lhrtcunha/Projetos/DIO/dotnet/Construtores/ExemploConstrutores/ExemploConstrutores.csproj",
+        "projectPath": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Construtores/ExemploConstrutores/ExemploConstrutores.csproj",
         "packagesPath": "/home/lhrtcunha/.nuget/packages/",
-        "outputPath": "/home/lhrtcunha/Projetos/DIO/dotnet/Construtores/ExemploConstrutores/obj/",
+        "outputPath": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Construtores/ExemploConstrutores/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/lhrtcunha/.nuget/NuGet/NuGet.Config"

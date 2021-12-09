@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DRgIILG8C9lyMgtXU1bqEVTKWzOoy3oQxRWE3viIvOwa2BOVSakN/zuhuI/NbWQM7rvfQaD0U2Sr8mW0hQIrFg==",
+  "dgSpecHash": "Lzj9CMnkVBd1MAj9wlKVcx8BmG8TGglViSWC3xJ4DLR+NN9Hq7l2bDz74MoZk5v1mWjHA7gvc35I2TEj8CSU8w==",
   "success": true,
-  "projectFilePath": "/home/lhrtcunha/Projetos/DIO/dotnet/Construtores/ExemploConstrutores/ExemploConstrutores.csproj",
+  "projectFilePath": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Construtores/ExemploConstrutores/ExemploConstrutores.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
