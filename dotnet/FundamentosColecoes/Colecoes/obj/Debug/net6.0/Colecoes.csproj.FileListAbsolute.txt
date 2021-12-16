@@ -1,0 +1,15 @@
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/FundamentosColecoes/Colecoes/bin/Debug/net6.0/Colecoes
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/FundamentosColecoes/Colecoes/bin/Debug/net6.0/Colecoes.deps.json
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/FundamentosColecoes/Colecoes/bin/Debug/net6.0/Colecoes.runtimeconfig.json
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/FundamentosColecoes/Colecoes/bin/Debug/net6.0/Colecoes.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/FundamentosColecoes/Colecoes/bin/Debug/net6.0/ref/Colecoes.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/FundamentosColecoes/Colecoes/bin/Debug/net6.0/Colecoes.pdb
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/FundamentosColecoes/Colecoes/obj/Debug/net6.0/Colecoes.csproj.AssemblyReference.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/FundamentosColecoes/Colecoes/obj/Debug/net6.0/Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/FundamentosColecoes/Colecoes/obj/Debug/net6.0/Colecoes.AssemblyInfoInputs.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/FundamentosColecoes/Colecoes/obj/Debug/net6.0/Colecoes.AssemblyInfo.cs
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/FundamentosColecoes/Colecoes/obj/Debug/net6.0/Colecoes.csproj.CoreCompileInputs.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/FundamentosColecoes/Colecoes/obj/Debug/net6.0/Colecoes.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/FundamentosColecoes/Colecoes/obj/Debug/net6.0/ref/Colecoes.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/FundamentosColecoes/Colecoes/obj/Debug/net6.0/Colecoes.pdb
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/FundamentosColecoes/Colecoes/obj/Debug/net6.0/Colecoes.genruntimeconfig.cache
