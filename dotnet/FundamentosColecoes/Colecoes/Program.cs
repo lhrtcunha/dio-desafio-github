@@ -1,18 +1,58 @@
 ﻿using Colecoes.Helper;
 
-Stack<string> pilhaLivros = new Stack<string>();
+Dictionary<string, string> estados = new Dictionary<string, string>();
 
-pilhaLivros.Push(".Net");
-pilhaLivros.Push("DDD");
-pilhaLivros.Push("Código limpo");
+estados.Add("SP","São Paulo");
+estados.Add("MG", "Minas Gerais");
+estados.Add("BA", "Bahia");
 
-System.Console.WriteLine($"Livro para a leitura {pilhaLivros.Count}");
-while (pilhaLivros.Count > 0)
+foreach (var item in estados)
 {
-     System.Console.WriteLine($"Próximo livro para a leitura {pilhaLivros.Peek()}");
-     System.Console.WriteLine($"{pilhaLivros.Pop()} lido com sucesso");
+    System.Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
 }
-System.Console.WriteLine($"Livro para a leitura {pilhaLivros.Count}");
+
+string valorProcurado = "SC";
+
+//var teste = estados["SC"];
+
+if (estados.TryGetValue(valorProcurado, out string? estadoProcurado))
+{
+     System.Console.WriteLine(estadoProcurado);
+}
+else
+{
+     System.Console.WriteLine($"Chave {valorProcurado} não existe no dicionário");
+}
+
+// System.Console.WriteLine($"Removendo p valor: {valorProcurado}");
+
+// estados.Remove(valorProcurado);
+
+// foreach (var item in estados)
+// {
+//     System.Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+// }
+
+// System.Console.WriteLine("Valor oroginal:");
+// System.Console.WriteLine(estados[valorProcurado]);
+
+// estados[valorProcurado] = "BA - teste atualização";
+// System.Console.WriteLine("Valor atualizado:");
+// System.Console.WriteLine(estados[valorProcurado]);
+
+// Stack<string> pilhaLivros = new Stack<string>();
+
+// pilhaLivros.Push(".Net");
+// pilhaLivros.Push("DDD");
+// pilhaLivros.Push("Código limpo");
+
+// System.Console.WriteLine($"Livro para a leitura {pilhaLivros.Count}");
+// while (pilhaLivros.Count > 0)
+// {
+//      System.Console.WriteLine($"Próximo livro para a leitura {pilhaLivros.Peek()}");
+//      System.Console.WriteLine($"{pilhaLivros.Pop()} lido com sucesso");
+// }
+// System.Console.WriteLine($"Livro para a leitura {pilhaLivros.Count}");
 
 // Queue<string> fila = new Queue<string>();
 
