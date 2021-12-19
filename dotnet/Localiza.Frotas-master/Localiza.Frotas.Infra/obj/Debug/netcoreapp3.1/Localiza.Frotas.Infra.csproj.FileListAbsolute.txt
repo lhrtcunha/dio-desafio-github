@@ -1,0 +1,13 @@
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Infra/bin/Debug/netcoreapp3.1/Localiza.Frotas.Infra.deps.json
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Infra/bin/Debug/netcoreapp3.1/Localiza.Frotas.Infra.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Infra/bin/Debug/netcoreapp3.1/Localiza.Frotas.Infra.pdb
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Infra/bin/Debug/netcoreapp3.1/Localiza.Frotas.Domain.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Infra/bin/Debug/netcoreapp3.1/Localiza.Frotas.Domain.pdb
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Infra/obj/Debug/netcoreapp3.1/Localiza.Frotas.Infra.csproj.AssemblyReference.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Infra/obj/Debug/netcoreapp3.1/Localiza.Frotas.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Infra/obj/Debug/netcoreapp3.1/Localiza.Frotas.Infra.AssemblyInfoInputs.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Infra/obj/Debug/netcoreapp3.1/Localiza.Frotas.Infra.AssemblyInfo.cs
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Infra/obj/Debug/netcoreapp3.1/Localiza.Frotas.Infra.csproj.CoreCompileInputs.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Infra/obj/Debug/netcoreapp3.1/Localiza.Frotas.Infra.csproj.CopyComplete
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Infra/obj/Debug/netcoreapp3.1/Localiza.Frotas.Infra.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Infra/obj/Debug/netcoreapp3.1/Localiza.Frotas.Infra.pdb

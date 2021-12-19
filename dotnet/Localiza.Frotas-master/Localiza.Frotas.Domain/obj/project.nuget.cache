@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KIvxfzY2YupsjFGzrmJjHVsCPhnaIP3I740p/XaAzxF5ujR3w8ERErbuqv0FGasa6cyClZaRgMECaoHIaz4mCQ==",
+  "success": true,
+  "projectFilePath": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Domain/Localiza.Frotas.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/lhrtcunha/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/lhrtcunha/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,28 +1,55 @@
 ﻿using Colecoes.Helper;
 
-Dictionary<string, string> estados = new Dictionary<string, string>();
+int[] arrayNumeros = new int[10] { 100, 1, 4, 0, 8, 15, 19, 19, 4, 100 };
 
-estados.Add("SP","São Paulo");
-estados.Add("MG", "Minas Gerais");
-estados.Add("BA", "Bahia");
+var minimo = arrayNumeros.Min();
+var maximo = arrayNumeros.Max();
+var medio = arrayNumeros.Average();
+var soma = arrayNumeros.Sum();
+var arrayUnico = arrayNumeros.Distinct().ToArray();
 
-foreach (var item in estados)
-{
-    System.Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
-}
+System.Console.WriteLine($"Minimo: {minimo}");
+System.Console.WriteLine($"Máximo: {maximo}");
+System.Console.WriteLine($"Médio: {medio}");
+System.Console.WriteLine($"Soma: {soma}");
+System.Console.WriteLine($"Array Original: {string.Join(", ",arrayNumeros)}");
+System.Console.WriteLine($"Array Distinto: {string.Join(", ",arrayUnico)}");
 
-string valorProcurado = "SC";
+// var numerosParesQuery = 
+//           from num in arrayNumeros
+//           where num % 2 == 0
+//           orderby num
+//           select num;
 
-//var teste = estados["SC"];
+// var numerosParesMetodo = arrayNumeros.Where(x => x % 2 == 0).ToList();
 
-if (estados.TryGetValue(valorProcurado, out string? estadoProcurado))
-{
-     System.Console.WriteLine(estadoProcurado);
-}
-else
-{
-     System.Console.WriteLine($"Chave {valorProcurado} não existe no dicionário");
-}
+// System.Console.WriteLine("Números pares query: " + string.Join(", ",numerosParesQuery));
+// System.Console.WriteLine("Números pares método: " + string.Join(", ",numerosParesMetodo));
+
+
+// Dictionary<string, string> estados = new Dictionary<string, string>();
+
+// estados.Add("SP","São Paulo");
+// estados.Add("MG", "Minas Gerais");
+// estados.Add("BA", "Bahia");
+
+// foreach (var item in estados)
+// {
+//     System.Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+// }
+
+// string valorProcurado = "SC";
+
+// //var teste = estados["SC"];
+
+// if (estados.TryGetValue(valorProcurado, out string? estadoProcurado))
+// {
+//      System.Console.WriteLine(estadoProcurado);
+// }
+// else
+// {
+//      System.Console.WriteLine($"Chave {valorProcurado} não existe no dicionário");
+// }
 
 // System.Console.WriteLine($"Removendo p valor: {valorProcurado}");
 

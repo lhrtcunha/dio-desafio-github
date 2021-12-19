@@ -1,0 +1,228 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas/Localiza.Frotas.Api.csproj": {}
+  },
+  "projects": {
+    "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Domain/Localiza.Frotas.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Domain/Localiza.Frotas.Domain.csproj",
+        "projectName": "Localiza.Frotas.Domain",
+        "projectPath": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Domain/Localiza.Frotas.Domain.csproj",
+        "packagesPath": "/home/lhrtcunha/.nuget/packages/",
+        "outputPath": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/lhrtcunha/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Infra/Localiza.Frotas.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Infra/Localiza.Frotas.Infra.csproj",
+        "projectName": "Localiza.Frotas.Infra",
+        "projectPath": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Infra/Localiza.Frotas.Infra.csproj",
+        "packagesPath": "/home/lhrtcunha/.nuget/packages/",
+        "outputPath": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Infra/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/lhrtcunha/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Domain/Localiza.Frotas.Domain.csproj": {
+                "projectPath": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Domain/Localiza.Frotas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas/Localiza.Frotas.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas/Localiza.Frotas.Api.csproj",
+        "projectName": "Localiza.Frotas.Api",
+        "projectPath": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas/Localiza.Frotas.Api.csproj",
+        "packagesPath": "/home/lhrtcunha/.nuget/packages/",
+        "outputPath": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/lhrtcunha/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Domain/Localiza.Frotas.Domain.csproj": {
+                "projectPath": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Domain/Localiza.Frotas.Domain.csproj"
+              },
+              "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Infra/Localiza.Frotas.Infra.csproj": {
+                "projectPath": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Infra/Localiza.Frotas.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[3.1.21, 3.1.21]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

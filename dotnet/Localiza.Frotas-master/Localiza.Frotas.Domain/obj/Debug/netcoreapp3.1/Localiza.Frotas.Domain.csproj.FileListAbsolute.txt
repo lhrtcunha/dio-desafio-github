@@ -1,0 +1,10 @@
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Domain/bin/Debug/netcoreapp3.1/Localiza.Frotas.Domain.deps.json
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Domain/bin/Debug/netcoreapp3.1/Localiza.Frotas.Domain.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Domain/bin/Debug/netcoreapp3.1/Localiza.Frotas.Domain.pdb
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Domain/obj/Debug/netcoreapp3.1/Localiza.Frotas.Domain.csproj.AssemblyReference.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Domain/obj/Debug/netcoreapp3.1/Localiza.Frotas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Domain/obj/Debug/netcoreapp3.1/Localiza.Frotas.Domain.AssemblyInfoInputs.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Domain/obj/Debug/netcoreapp3.1/Localiza.Frotas.Domain.AssemblyInfo.cs
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Domain/obj/Debug/netcoreapp3.1/Localiza.Frotas.Domain.csproj.CoreCompileInputs.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Domain/obj/Debug/netcoreapp3.1/Localiza.Frotas.Domain.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Localiza.Frotas-master/Localiza.Frotas.Domain/obj/Debug/netcoreapp3.1/Localiza.Frotas.Domain.pdb
