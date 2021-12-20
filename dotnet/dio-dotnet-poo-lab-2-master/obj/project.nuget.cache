@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JXdUdqk9hfnuAs2bj+rlrZ0UmgUY+l0Nxg8AUZGXOXyi0vE8Vcnf8noe2ZHrYCSYq2vpXf03KNzjugwoXe3APQ==",
+  "dgSpecHash": "Hap2EEJ52Am3CwBDGMjSNcFd8Td3nsSv2Kpqiv3DmEAQZBQ2awe0Hiyce9IV7XxBVAOFA/Fx9dc4Jg1WWhxvOw==",
   "success": true,
   "projectFilePath": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/dio-dotnet-poo-lab-2-master/DIO.Series.csproj",
-  "expectedPackageFiles": [
-    "/home/lhrtcunha/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "/home/lhrtcunha/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/home/lhrtcunha/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.21/microsoft.netcore.app.host.linux-x64.3.1.21.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
