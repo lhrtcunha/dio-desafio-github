@@ -1,0 +1,15 @@
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaIj/bin/Debug/net6.0/SequenciaIj
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaIj/bin/Debug/net6.0/SequenciaIj.deps.json
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaIj/bin/Debug/net6.0/SequenciaIj.runtimeconfig.json
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaIj/bin/Debug/net6.0/SequenciaIj.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaIj/bin/Debug/net6.0/ref/SequenciaIj.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaIj/bin/Debug/net6.0/SequenciaIj.pdb
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaIj/obj/Debug/net6.0/SequenciaIj.csproj.AssemblyReference.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaIj/obj/Debug/net6.0/SequenciaIj.GeneratedMSBuildEditorConfig.editorconfig
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaIj/obj/Debug/net6.0/SequenciaIj.AssemblyInfoInputs.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaIj/obj/Debug/net6.0/SequenciaIj.AssemblyInfo.cs
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaIj/obj/Debug/net6.0/SequenciaIj.csproj.CoreCompileInputs.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaIj/obj/Debug/net6.0/SequenciaIj.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaIj/obj/Debug/net6.0/ref/SequenciaIj.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaIj/obj/Debug/net6.0/SequenciaIj.pdb
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaIj/obj/Debug/net6.0/SequenciaIj.genruntimeconfig.cache

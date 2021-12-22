@@ -1,0 +1,15 @@
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/VaiTerCopa/bin/Debug/net6.0/VaiTerCopa
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/VaiTerCopa/bin/Debug/net6.0/VaiTerCopa.deps.json
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/VaiTerCopa/bin/Debug/net6.0/VaiTerCopa.runtimeconfig.json
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/VaiTerCopa/bin/Debug/net6.0/VaiTerCopa.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/VaiTerCopa/bin/Debug/net6.0/ref/VaiTerCopa.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/VaiTerCopa/bin/Debug/net6.0/VaiTerCopa.pdb
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/VaiTerCopa/obj/Debug/net6.0/VaiTerCopa.csproj.AssemblyReference.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/VaiTerCopa/obj/Debug/net6.0/VaiTerCopa.GeneratedMSBuildEditorConfig.editorconfig
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/VaiTerCopa/obj/Debug/net6.0/VaiTerCopa.AssemblyInfoInputs.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/VaiTerCopa/obj/Debug/net6.0/VaiTerCopa.AssemblyInfo.cs
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/VaiTerCopa/obj/Debug/net6.0/VaiTerCopa.csproj.CoreCompileInputs.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/VaiTerCopa/obj/Debug/net6.0/VaiTerCopa.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/VaiTerCopa/obj/Debug/net6.0/ref/VaiTerCopa.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/VaiTerCopa/obj/Debug/net6.0/VaiTerCopa.pdb
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/VaiTerCopa/obj/Debug/net6.0/VaiTerCopa.genruntimeconfig.cache

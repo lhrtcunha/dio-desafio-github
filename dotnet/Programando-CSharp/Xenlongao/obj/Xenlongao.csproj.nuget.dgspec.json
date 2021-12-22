@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/ProgramandoC#/Xenlongão/Xenlongao/Xenlongao.csproj": {}
+    "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/Xenlongao/Xenlongao.csproj": {}
   },
   "projects": {
-    "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/ProgramandoC#/Xenlongão/Xenlongao/Xenlongao.csproj": {
+    "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/Xenlongao/Xenlongao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/ProgramandoC#/Xenlongão/Xenlongao/Xenlongao.csproj",
+        "projectUniqueName": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/Xenlongao/Xenlongao.csproj",
         "projectName": "Xenlongao",
-        "projectPath": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/ProgramandoC#/Xenlongão/Xenlongao/Xenlongao.csproj",
+        "projectPath": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/Xenlongao/Xenlongao.csproj",
         "packagesPath": "/home/lhrtcunha/.nuget/packages/",
-        "outputPath": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/ProgramandoC#/Xenlongão/Xenlongao/obj/",
+        "outputPath": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/Xenlongao/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/lhrtcunha/.nuget/NuGet/NuGet.Config"

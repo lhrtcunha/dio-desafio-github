@@ -1,0 +1,15 @@
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/QuadradoDePares/bin/Debug/net6.0/QuadradoDePares
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/QuadradoDePares/bin/Debug/net6.0/QuadradoDePares.deps.json
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/QuadradoDePares/bin/Debug/net6.0/QuadradoDePares.runtimeconfig.json
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/QuadradoDePares/bin/Debug/net6.0/QuadradoDePares.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/QuadradoDePares/bin/Debug/net6.0/ref/QuadradoDePares.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/QuadradoDePares/bin/Debug/net6.0/QuadradoDePares.pdb
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/QuadradoDePares/obj/Debug/net6.0/QuadradoDePares.csproj.AssemblyReference.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/QuadradoDePares/obj/Debug/net6.0/QuadradoDePares.GeneratedMSBuildEditorConfig.editorconfig
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/QuadradoDePares/obj/Debug/net6.0/QuadradoDePares.AssemblyInfoInputs.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/QuadradoDePares/obj/Debug/net6.0/QuadradoDePares.AssemblyInfo.cs
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/QuadradoDePares/obj/Debug/net6.0/QuadradoDePares.csproj.CoreCompileInputs.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/QuadradoDePares/obj/Debug/net6.0/QuadradoDePares.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/QuadradoDePares/obj/Debug/net6.0/ref/QuadradoDePares.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/QuadradoDePares/obj/Debug/net6.0/QuadradoDePares.pdb
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/QuadradoDePares/obj/Debug/net6.0/QuadradoDePares.genruntimeconfig.cache

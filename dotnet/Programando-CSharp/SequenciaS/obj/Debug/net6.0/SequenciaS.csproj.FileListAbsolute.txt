@@ -1,0 +1,15 @@
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaS/bin/Debug/net6.0/SequenciaS
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaS/bin/Debug/net6.0/SequenciaS.deps.json
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaS/bin/Debug/net6.0/SequenciaS.runtimeconfig.json
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaS/bin/Debug/net6.0/SequenciaS.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaS/bin/Debug/net6.0/ref/SequenciaS.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaS/bin/Debug/net6.0/SequenciaS.pdb
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaS/obj/Debug/net6.0/SequenciaS.csproj.AssemblyReference.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaS/obj/Debug/net6.0/SequenciaS.GeneratedMSBuildEditorConfig.editorconfig
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaS/obj/Debug/net6.0/SequenciaS.AssemblyInfoInputs.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaS/obj/Debug/net6.0/SequenciaS.AssemblyInfo.cs
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaS/obj/Debug/net6.0/SequenciaS.csproj.CoreCompileInputs.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaS/obj/Debug/net6.0/SequenciaS.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaS/obj/Debug/net6.0/ref/SequenciaS.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaS/obj/Debug/net6.0/SequenciaS.pdb
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Programando-CSharp/SequenciaS/obj/Debug/net6.0/SequenciaS.genruntimeconfig.cache
