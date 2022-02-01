@@ -1,0 +1,14 @@
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/PapaiNoel/bin/Debug/netcoreapp3.1/PapaiNoel
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/PapaiNoel/bin/Debug/netcoreapp3.1/PapaiNoel.deps.json
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/PapaiNoel/bin/Debug/netcoreapp3.1/PapaiNoel.runtimeconfig.json
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/PapaiNoel/bin/Debug/netcoreapp3.1/PapaiNoel.runtimeconfig.dev.json
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/PapaiNoel/bin/Debug/netcoreapp3.1/PapaiNoel.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/PapaiNoel/bin/Debug/netcoreapp3.1/PapaiNoel.pdb
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/PapaiNoel/obj/Debug/netcoreapp3.1/PapaiNoel.csproj.AssemblyReference.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/PapaiNoel/obj/Debug/netcoreapp3.1/PapaiNoel.GeneratedMSBuildEditorConfig.editorconfig
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/PapaiNoel/obj/Debug/netcoreapp3.1/PapaiNoel.AssemblyInfoInputs.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/PapaiNoel/obj/Debug/netcoreapp3.1/PapaiNoel.AssemblyInfo.cs
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/PapaiNoel/obj/Debug/netcoreapp3.1/PapaiNoel.csproj.CoreCompileInputs.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/PapaiNoel/obj/Debug/netcoreapp3.1/PapaiNoel.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/PapaiNoel/obj/Debug/netcoreapp3.1/PapaiNoel.pdb
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/PapaiNoel/obj/Debug/netcoreapp3.1/PapaiNoel.genruntimeconfig.cache

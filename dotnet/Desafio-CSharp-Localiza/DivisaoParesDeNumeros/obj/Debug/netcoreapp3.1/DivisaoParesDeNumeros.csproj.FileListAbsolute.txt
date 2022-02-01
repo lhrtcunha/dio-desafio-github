@@ -1,0 +1,14 @@
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/DivisaoParesDeNumeros/bin/Debug/netcoreapp3.1/DivisaoParesDeNumeros
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/DivisaoParesDeNumeros/bin/Debug/netcoreapp3.1/DivisaoParesDeNumeros.deps.json
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/DivisaoParesDeNumeros/bin/Debug/netcoreapp3.1/DivisaoParesDeNumeros.runtimeconfig.json
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/DivisaoParesDeNumeros/bin/Debug/netcoreapp3.1/DivisaoParesDeNumeros.runtimeconfig.dev.json
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/DivisaoParesDeNumeros/bin/Debug/netcoreapp3.1/DivisaoParesDeNumeros.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/DivisaoParesDeNumeros/bin/Debug/netcoreapp3.1/DivisaoParesDeNumeros.pdb
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/DivisaoParesDeNumeros/obj/Debug/netcoreapp3.1/DivisaoParesDeNumeros.csproj.AssemblyReference.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/DivisaoParesDeNumeros/obj/Debug/netcoreapp3.1/DivisaoParesDeNumeros.GeneratedMSBuildEditorConfig.editorconfig
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/DivisaoParesDeNumeros/obj/Debug/netcoreapp3.1/DivisaoParesDeNumeros.AssemblyInfoInputs.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/DivisaoParesDeNumeros/obj/Debug/netcoreapp3.1/DivisaoParesDeNumeros.AssemblyInfo.cs
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/DivisaoParesDeNumeros/obj/Debug/netcoreapp3.1/DivisaoParesDeNumeros.csproj.CoreCompileInputs.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/DivisaoParesDeNumeros/obj/Debug/netcoreapp3.1/DivisaoParesDeNumeros.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/DivisaoParesDeNumeros/obj/Debug/netcoreapp3.1/DivisaoParesDeNumeros.pdb
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/DivisaoParesDeNumeros/obj/Debug/netcoreapp3.1/DivisaoParesDeNumeros.genruntimeconfig.cache

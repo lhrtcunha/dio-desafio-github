@@ -1,0 +1,14 @@
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/Xenlonguinho/bin/Debug/netcoreapp3.1/Xenlonguinho
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/Xenlonguinho/bin/Debug/netcoreapp3.1/Xenlonguinho.deps.json
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/Xenlonguinho/bin/Debug/netcoreapp3.1/Xenlonguinho.runtimeconfig.json
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/Xenlonguinho/bin/Debug/netcoreapp3.1/Xenlonguinho.runtimeconfig.dev.json
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/Xenlonguinho/bin/Debug/netcoreapp3.1/Xenlonguinho.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/Xenlonguinho/bin/Debug/netcoreapp3.1/Xenlonguinho.pdb
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/Xenlonguinho/obj/Debug/netcoreapp3.1/Xenlonguinho.csproj.AssemblyReference.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/Xenlonguinho/obj/Debug/netcoreapp3.1/Xenlonguinho.GeneratedMSBuildEditorConfig.editorconfig
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/Xenlonguinho/obj/Debug/netcoreapp3.1/Xenlonguinho.AssemblyInfoInputs.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/Xenlonguinho/obj/Debug/netcoreapp3.1/Xenlonguinho.AssemblyInfo.cs
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/Xenlonguinho/obj/Debug/netcoreapp3.1/Xenlonguinho.csproj.CoreCompileInputs.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/Xenlonguinho/obj/Debug/netcoreapp3.1/Xenlonguinho.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/Xenlonguinho/obj/Debug/netcoreapp3.1/Xenlonguinho.pdb
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/Xenlonguinho/obj/Debug/netcoreapp3.1/Xenlonguinho.genruntimeconfig.cache

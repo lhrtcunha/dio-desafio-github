@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z4JSPH42Ljk16FTQnfhC0FLtqvgV0R9D53+2E4jox3aD4Mc927ixPOny9qf+MAYNUX6c6lDfKHYpJ+1O7DCxqg==",
+  "success": true,
+  "projectFilePath": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/PapaiNoel/PapaiNoel.csproj",
+  "expectedPackageFiles": [
+    "/home/lhrtcunha/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.21/microsoft.netcore.app.host.linux-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

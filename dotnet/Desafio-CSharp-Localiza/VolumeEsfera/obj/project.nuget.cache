@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rsRL+i73bcbg/863VxOhFLDd7ZfY0uaQfIxYIeptYmiJYVkYSMv8FyvijXb4qPhQBDi99BCmKW/E77eItRvcdg==",
+  "success": true,
+  "projectFilePath": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/VolumeEsfera/VolumeEsfera.csproj",
+  "expectedPackageFiles": [
+    "/home/lhrtcunha/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.21/microsoft.netcore.app.host.linux-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

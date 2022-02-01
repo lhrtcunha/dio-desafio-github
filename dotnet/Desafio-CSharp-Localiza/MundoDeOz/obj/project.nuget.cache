@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aFIzfD1bpcs4Rn5lvMBlnSeZyYfTpKb8Zy8clBoJW249QHTA5B+UOh7mLq0IdLzQcJE5ZEwS4sFh+NdyJaQZEA==",
+  "success": true,
+  "projectFilePath": "/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/MundoDeOz/MundoDeOz.csproj",
+  "expectedPackageFiles": [
+    "/home/lhrtcunha/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.21/microsoft.netcore.app.host.linux-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

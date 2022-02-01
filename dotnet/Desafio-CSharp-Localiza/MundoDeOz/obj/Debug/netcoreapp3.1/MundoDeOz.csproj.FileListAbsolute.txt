@@ -1,0 +1,14 @@
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/MundoDeOz/bin/Debug/netcoreapp3.1/MundoDeOz
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/MundoDeOz/bin/Debug/netcoreapp3.1/MundoDeOz.deps.json
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/MundoDeOz/bin/Debug/netcoreapp3.1/MundoDeOz.runtimeconfig.json
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/MundoDeOz/bin/Debug/netcoreapp3.1/MundoDeOz.runtimeconfig.dev.json
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/MundoDeOz/bin/Debug/netcoreapp3.1/MundoDeOz.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/MundoDeOz/bin/Debug/netcoreapp3.1/MundoDeOz.pdb
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/MundoDeOz/obj/Debug/netcoreapp3.1/MundoDeOz.csproj.AssemblyReference.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/MundoDeOz/obj/Debug/netcoreapp3.1/MundoDeOz.GeneratedMSBuildEditorConfig.editorconfig
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/MundoDeOz/obj/Debug/netcoreapp3.1/MundoDeOz.AssemblyInfoInputs.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/MundoDeOz/obj/Debug/netcoreapp3.1/MundoDeOz.AssemblyInfo.cs
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/MundoDeOz/obj/Debug/netcoreapp3.1/MundoDeOz.csproj.CoreCompileInputs.cache
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/MundoDeOz/obj/Debug/netcoreapp3.1/MundoDeOz.dll
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/MundoDeOz/obj/Debug/netcoreapp3.1/MundoDeOz.pdb
+/home/lhrtcunha/Projetos/dio-desafio-github/dotnet/Desafio-CSharp-Localiza/MundoDeOz/obj/Debug/netcoreapp3.1/MundoDeOz.genruntimeconfig.cache
